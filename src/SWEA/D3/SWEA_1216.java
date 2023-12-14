@@ -75,8 +75,7 @@ public class SWEA_1216 {
 					}
 				}
 			}
-			
-
+		
 			
 			
 			System.out.println("#"+test_case+" "+result);
